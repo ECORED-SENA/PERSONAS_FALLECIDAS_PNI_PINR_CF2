@@ -9,7 +9,7 @@
       h1 Inhumación
     
     figure.mb-4
-      img(src='@/assets/curso/tema1/img01.svg')
+      img(src='@/assets/curso/tema1/img01.png')
 
     p.mb-4 Con la intención de que desarrolle conocimientos, habilidades y actitudes con respecto a las disposiciones concernientes a personas no identificadas (PNI) y personas identificadas no reclamadas (PINR) debemos partir entonces de dos conceptos clave: la inhumación y la exhumación, ¿los había escuchado antes?, ¿qué significan?, esto respecto a la información que encontrará más adelante.
 

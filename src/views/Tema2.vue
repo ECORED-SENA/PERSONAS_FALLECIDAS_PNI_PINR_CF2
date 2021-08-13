@@ -12,7 +12,7 @@
       .col-lg-8
         .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema2/img01.svg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/tema2/img01.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Ya abordado uno de los procesos que sería la inhumación, corresponde ahora definir la exhumación que proviene de las raíces ex y humus que significan respectivamente afuera y tierra, esto es, sacar a la superficie algo que está por debajo de ella.  
@@ -47,8 +47,8 @@
               br
               h4 III. Exhumación
               p El área de exhumación debe permitir la individualización y extracción de todos los componentes óseos que se encuentran en su tumba.
-            .col-lg-3
-              img(src='@/assets/curso/tema2/img04.svg')
+            .col-lg-5
+              img(src='@/assets/curso/tema2/img04.png')
       .py-4.py-lg-0(titulo="IV. La sala" :icono="require('@/assets/curso/tema2/img09.svg')")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center

@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Conceptos de inhumación y exhumación',
     descripcionCurso:
       '<br><br><br>En el proceso de manejo de la persona fallecida no identificada e identificada no reclamada surge la custodia que asigna responsabilidad a los cementerios de generar condiciones apropiadas para su inhumación individualizada y del proceso de exhumación para la entrega a sus familias, en este componente se abordarán estos conceptos y sus condiciones.<br><br><br><br>',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
