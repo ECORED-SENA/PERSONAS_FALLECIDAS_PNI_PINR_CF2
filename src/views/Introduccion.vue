@@ -13,7 +13,7 @@
       .col-lg-10
         p.mb-4 Apreciado aprendiz bienvenido a esta experiencia de aprendizaje relacionada con el proceso de gestión de cementerios y que pretende ayudarle a apropiar elementos básicos para la inhumación y exhumación de personas. Para más información se sugiere revisar el siguiente recurso de aprendizaje que le dará un contexto inicial para su aprendizaje.
 
-        .tarjeta.color-primario.p-4.mb-5
+        .tarjeta.color-primario.p-4.mb-5(data-aos="fade-up")
           SlyderA
             .row.justify-content-center.p-4
               .col-lg-5.mb-4.mb-md-0

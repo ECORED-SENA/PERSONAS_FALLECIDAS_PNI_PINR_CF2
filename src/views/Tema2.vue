@@ -23,7 +23,7 @@
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-lg-0(titulo="I. Cementerio" :icono="require('@/assets/curso/tema2/img06.svg')")
-        .tarjeta.color-secundario.p-4
+        .tarjeta.color-secundario.p-4(data-aos="fade-up-left")
           .row.justify-content-center
             .col-lg-4.mb-4.mb-lg-0
               br

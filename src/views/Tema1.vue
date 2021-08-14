@@ -18,7 +18,7 @@
       .h4 1.1 Concepto de inhumación
     
     img(src='@/assets/curso/tema1/img02.svg')
-    .tarjeta.color-acento-contenido.p-4.mb-4
+    .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-down")
       .row.justify-content-center
         .col-lg-7.mb-4.mb-lg-0
           p.mb-4 La palabra inhumación proviene de las raíces del latín in y humus que significan adentro y tierra, esto es, enterrar o disponer dentro de la tierra. Así, conforme a lo dispuesto en la Resolución del Ministerio de Protección Social 5194 de 2010 inhumar supone la acción de enterrar o depositar en los cementerios cadáveres, restos óseos y partes humanas, mientras el área de inhumación ya es más particular, como aquella en la cual se realiza la disposición final de los cadáveres no identificados o identificados y no reclamados o sus restos óseos o restos humanos.
@@ -30,7 +30,7 @@
       .col-lg-10
         p.mb-4 La inhumación de cadáveres es un servicio que podrán prestar los cementerios de conformidad con los requisitos que sean exigidos por las autoridades competentes y supone un derecho para las familias, íntimamente ligado con la religión.
 
-        .tarjeta.color-primario.mb-4.p-4
+        .tarjeta.color-primario.mb-4.p-4(data-aos="slide-left")
           .row.justify-content-center
             .col-lg-7.mb-4.mb-lg-0
               p.mb-4 Si bien existen unos requisitos específicos para la inhumación de las 
@@ -50,7 +50,7 @@
         p.mb-4 Mientras en los requisitos se hace referencia, en la citada Resolución, a los documentos necesarios para realizar el servicio de inhumación que son: 1. Certificado de defunción. 2. Licencia de inhumación expedida a nivel municipal por alguna de las siguientes entidades: Alcaldía, Secretaría de Salud o Inspección de Policía.
         p.mb-4 Para entender la importancia del concepto de inhumación es necesario partir de un supuesto que ha sido desarrollado por la Corte Constitucional (C.C., T-162/1994) del valor simbólico del cadáver, esto es, lo que representa el cuerpo de la persona fallecida.
 
-        .tarjeta.color-primario.mb-4.p-4
+        .tarjeta.color-primario.mb-4.p-4(data-aos="slide-right")
           .row.justify-content-center
             .col-lg-10.mb-4.mb-lg-0
               p.mb-4 Es una costumbre cultural la fabricación o uso de tumbas, toda vez que estas permiten rememorar a la persona muerta inscribiendo su nombre, su fotografía o su efigie y, que permiten la estratificación social que resulta del tamaño, la forma, los materiales o la localización de esta.
@@ -70,7 +70,7 @@
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-lg-0(titulo="Requisitos")
-        .tarjeta.color-secundario.p-4
+        .tarjeta.color-secundario.p-4(data-aos="fade-left")
           .row.justify-content-center
             .col-lg-4.mb-4.mb-lg-0
               br
