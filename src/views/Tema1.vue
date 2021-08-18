@@ -21,7 +21,11 @@
     .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-down")
       .row.justify-content-center
         .col-lg-7.mb-4.mb-lg-0
-          p.mb-4 La palabra inhumación proviene de las raíces del latín in y humus que significan adentro y tierra, esto es, enterrar o disponer dentro de la tierra. Así, conforme a lo dispuesto en la Resolución del Ministerio de Protección Social 5194 de 2010 inhumar supone la acción de enterrar o depositar en los cementerios cadáveres, restos óseos y partes humanas, mientras el área de inhumación ya es más particular, como aquella en la cual se realiza la disposición final de los cadáveres no identificados o identificados y no reclamados o sus restos óseos o restos humanos.
+          p.mb-4 La palabra inhumación proviene de las raíces del latín 
+            strong.fst-italic in 
+            | y 
+            strong.fst-italic humus 
+            | que significan adentro y tierra, esto es, enterrar o disponer dentro de la tierra. Así, conforme a lo dispuesto en la Resolución del Ministerio de Protección Social 5194 de 2010 inhumar supone la acción de enterrar o depositar en los cementerios cadáveres, restos óseos y partes humanas, mientras el área de inhumación ya es más particular, como aquella en la cual se realiza la disposición final de los cadáveres no identificados o identificados y no reclamados o sus restos óseos o restos humanos.
           p Adicionalmente, a la fecha existe un área de inhumación cada vez más común, y se caracteriza por ser aquella en la cual se realiza la disposición final de los cadáveres no identificados o identificados y no reclamados o sus restos óseos o restos humanos.
         .col-lg-3
           img(src='@/assets/curso/tema1/img03.svg')
@@ -46,8 +50,32 @@
             .col-lg-3
               img(src='@/assets/curso/tema1/img04.svg')
 
-        p.mb-4 Entre las condiciones para realizar el servicio de inhumación se encuentra (i) que en las sepulturas y bóvedas, sencillas o múltiples no se supere el número de cadáveres para las que cada una de ellas fue diseñada, (ii) que cerrada la sepultura se realice la marcación provisional y dentro de los 30 días calendario el administrador realice la respectiva rotulación de la misma, (iii) que se exprese de manera clara en el reglamento del cementerio la forma en que los deudos deben procurar la conservación de las lápidas (iv) y la preservación como piezas históricas de las lápidas los modelos y características instaladas en zonas históricas y bóvedas antiguas a perpetuidad.
-        p.mb-4 Mientras en los requisitos se hace referencia, en la citada Resolución, a los documentos necesarios para realizar el servicio de inhumación que son: 1. Certificado de defunción. 2. Licencia de inhumación expedida a nivel municipal por alguna de las siguientes entidades: Alcaldía, Secretaría de Salud o Inspección de Policía.
+        p.mb-4 Entre las condiciones para realizar el servicio de inhumación se encuentra
+        .row.justify-content-center.mb-4
+          .col-lg-11
+            ol.lista-ol
+              li 
+                span.text-bold (i)
+                | Que en las sepulturas y bóvedas, sencillas o múltiples no se supere el número de cadáveres para las que cada una de ellas fue diseñada.
+              li 
+                span.text-bold (ii)
+                | Que cerrada la sepultura se realice la marcación provisional y dentro de los 30 días calendario el administrador realice la respectiva rotulación de la misma.
+              li 
+                span.text-bold (iii)
+                | Que se exprese de manera clara en el reglamento del cementerio la forma en que los deudos deben procurar la conservación de las lápidas.
+              li 
+                span.text-bold (iv)
+                |  Y la preservación como piezas históricas de las lápidas los modelos y características instaladas en zonas históricas y bóvedas antiguas a perpetuidad.
+        p.mb-4 Mientras en los requisitos se hace referencia, en la citada Resolución, a los documentos necesarios para realizar el servicio de inhumación que son: 
+        .row.justify-content-center.mb-4
+          .col-lg-11
+            ol.lista-ol
+              li 
+                span.text-bold 1.
+                | Certificado de defunción.
+              li 
+                span.text-bold 2.
+                | Licencia de inhumación expedida a nivel municipal por alguna de las siguientes entidades: Alcaldía, Secretaría de Salud o Inspección de Policía.
         p.mb-4 Para entender la importancia del concepto de inhumación es necesario partir de un supuesto que ha sido desarrollado por la Corte Constitucional (C.C., T-162/1994) del valor simbólico del cadáver, esto es, lo que representa el cuerpo de la persona fallecida.
 
         .tarjeta.color-primario.mb-4.p-4(data-aos="slide-right")
@@ -108,8 +136,8 @@
               p.mb-4 Nombre y apellidos de la persona identificada no reclamada.
               p Los dígitos del protocolo de necropsia.
               p.mb-4 Acta de inspección. # único de noticia criminal.
-              p Número de clasificación y/o ubicación en el cementerio.
               p La fecha de la inhumación.
+              p Número de clasificación y/o ubicación en el cementerio.
       .py-4.py-lg-0(titulo="Los deudos")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center
@@ -134,8 +162,16 @@
     .row
       .col-lg-8
         p.mb-4 Para realizar el proceso de inhumación se debe constatar la siguiente documentación: 
-          strong 1. Certificado de defunción. 2. Licencia de inhumación 
-          | expedida a nivel municipal por alguna de las siguientes entidades: Alcaldía, Secretaría de Salud o Inspección de Policía, la cual permite tener seguridad de que se puede realizar el proceso de inhumación e igualmente realizar la individualización del caso, realizando las planeaciones necesarias como determinar la ubicación en el cementerio, preparar el espacio a través de la apertura y limpieza del interior de la bóveda o la preparación de la tumba en tierra.
+        .row.justify-content-center.mb-4
+          .col-lg-11
+            ol.lista-ol
+              li 
+                span.text-bold 1.
+                | Certificado de defunción. 
+              li 
+                span.text-bold 2.
+                | Licencia de inhumación 
+        p.mb-4 expedida a nivel municipal por alguna de las siguientes entidades: Alcaldía, Secretaría de Salud o Inspección de Policía, la cual permite tener seguridad de que se puede realizar el proceso de inhumación e igualmente realizar la individualización del caso, realizando las planeaciones necesarias como determinar la ubicación en el cementerio, preparar el espacio a través de la apertura y limpieza del interior de la bóveda o la preparación de la tumba en tierra.
         p.mb-4 Cuando se llega con el servicio de inhumación al cementerio se debe verificar quién realizará el proceso de inhumación, para que este realice el acompañamiento al área destinada para ello. Es importante destacar que el operario de cementerios debe facilitar los espacios que le permitan a las familias realizar el proceso de despedida de sus seres queridos e informar de manera respetuosa el momento en que se deberá realizar la inhumación.
         p Posterior a ello, se realiza el proceso de cierre de la inhumación y se realiza una marcación previa con información clara que individualice el proceso, después de esto se debe registrar en el cementerio y coordinar la lápida definitiva. 
       .col-lg-4

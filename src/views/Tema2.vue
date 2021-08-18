@@ -15,7 +15,11 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img01.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Ya abordado uno de los procesos que sería la inhumación, corresponde ahora definir la exhumación que proviene de las raíces ex y humus que significan respectivamente afuera y tierra, esto es, sacar a la superficie algo que está por debajo de ella.  
+            p.mb-0 Ya abordado uno de los procesos que sería la inhumación, corresponde ahora definir la exhumación que proviene de las raíces 
+              strong.fst-italic ex 
+              | y 
+              strong.fst-italic humus 
+              | que significan respectivamente afuera y tierra, esto es, sacar a la superficie algo que está por debajo de ella.  
     
     p.mb-4 La Resolución del Ministerio de Protección Social 5194 de 2010 establece que exhumar es extraer cadáveres, restos humanos y restos óseos del lugar de inhumación, previa orden judicial o administrativa para fines legales o efectos numerarios.
     p.mb-4 Íntimamente relacionado con el concepto de inhumar está el lugar de exhumación y el área de exhumación, que hacen referencia a la zona o espacio alrededor de la tumba o bóveda donde se realiza la exhumación y la estructura física para la realización de necropsias o procesos posexhumaciones. Cuando se habla de exhumación, usualmente se encuentran discusiones en torno a quién tiene el derecho sobre ello, teniendo presente el valor simbólico de la tumba y el concepto del cadáver que no puede asociarse con una propiedad.

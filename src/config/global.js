@@ -46,20 +46,6 @@ export default {
         numero: '2',
         titulo: 'Exhumación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Concepto de exhumación',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Condiciones para la exhumación',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -175,8 +161,7 @@ export default {
       texto:
         'Moon, C. (2020). Los derechos humanos de los muertos y sus familiares.',
       tipo: 'Artículo',
-      link:
-        'https://estudiosdeldesarrollo.mx/observatoriodeldesarrollo/wp-content/uploads/2020/07/ODadelantoCMoon.pdf',
+      descarga: '/downloads/ODadelantoCMoon.pdf',
     },
   ],
   creditos: {
@@ -194,6 +179,33 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'John Alejandro Carmona Escobar',
+        cargo: 'Instructor experto temático',
+        centro: 'Centro de Servicios de Salud Regional Antioquia',
+      },
+      {
+        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
+        cargo:
+          'Instructora (EPC) – Líder desarrollo curricular servicios personales',
+        centro: 'Centro de Servicios de Salud Regional Antioquia',
+      },
+      {
+        nombre: 'Adriana María Bustamante Cataño',
+        cargo: 'Profesional de diseño y producción curricular',
+        centro: 'Centro de Servicios de Salud Regional Antioquia',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'AsesDiseñador instruccionalor',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+      },
+      {
+        nombre: 'Vilma Perilla Méndez',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -208,25 +220,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Julian Marquez Sanabria',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Isabel Román Rueda',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
