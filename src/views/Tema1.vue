@@ -108,36 +108,35 @@
               img(src='@/assets/curso/tema1/img06.svg')
       .py-4.py-lg-0(titulo="Individualización")
         .tarjeta.color-secundario.p-4
-          .row.justify-content-center
-            .col-lg-4.mb-4.mb-lg-0
-              br
-              h4 Individualización
-              p En las bóvedas y sepulturas solo se permite el número de cadáveres para el que fue diseñada y, debe realizarse una marcación provisional. Para el caso de personas no identificadas o identificadas y no reclamadas deberán inhumarse de manera individualizada y con los datos mínimos de individualización como:
-            .col-lg-3
-              img(src='@/assets/curso/tema1/img07.png')
-            .col-lg-4.mb-4.mb-lg-0
-              p.mb-4 Se escribe esta abreviación para señalar una obligatoriedad en su búsqueda e identificación.
-              p Los dígitos del protocolo de necropsia. 
-              p.mb-5 Acta de inspección. # único de noticia criminal.
-              p.mb-4 La fecha de la inhumación.
-              p Número de clasificación y/o ubicación en el cementerio.
-      .py-4.py-lg-0(titulo="Individualización")
-        .tarjeta.color-secundario.p-4
-          .row.justify-content-center
-            .col-lg-4.mb-4.mb-lg-0
-              br
-              h4.mb-4 Individualización
-              p.mb-4
-                strong Ejemplo:
-              p A continuación, se presenta la marcación de una bóveda de una persona identificada no reclamada. 
-            .col-lg-3
-              img(src='@/assets/curso/tema1/img11.png')
-            .col-lg-4.mb-4.mb-lg-0
-              p.mb-4 Nombre y apellidos de la persona identificada no reclamada.
-              p Los dígitos del protocolo de necropsia.
-              p.mb-4 Acta de inspección. # único de noticia criminal.
-              p La fecha de la inhumación.
-              p Número de clasificación y/o ubicación en el cementerio.
+          SlyderA
+            .row.justify-content-center.p-4
+              .col-lg-4.mb-4.mb-lg-0
+                br
+                h4 Individualización
+                p En las bóvedas y sepulturas solo se permite el número de cadáveres para el que fue diseñada y, debe realizarse una marcación provisional. Para el caso de personas no identificadas o identificadas y no reclamadas deberán inhumarse de manera individualizada y con los datos mínimos de individualización como:
+              .col-lg-3
+                img(src='@/assets/curso/tema1/img07.png')
+              .col-lg-4.mb-4.mb-lg-0
+                p.mb-4 Se escribe esta abreviación para señalar una obligatoriedad en su búsqueda e identificación.
+                p Los dígitos del protocolo de necropsia. 
+                p.mb-5 Acta de inspección. # único de noticia criminal.
+                p.mb-4 La fecha de la inhumación.
+                p Número de clasificación y/o ubicación en el cementerio.
+            .row.justify-content-center.p-4
+              .col-lg-4.mb-4.mb-lg-0
+                br
+                h4.mb-4 Individualización
+                p.mb-4
+                  strong Ejemplo:
+                p A continuación, se presenta la marcación de una bóveda de una persona identificada no reclamada. 
+              .col-lg-3
+                img(src='@/assets/curso/tema1/img11.png')
+              .col-lg-4.mb-4.mb-lg-0
+                p.mb-4 Nombre y apellidos de la persona identificada no reclamada.
+                p Los dígitos del protocolo de necropsia.
+                p.mb-4 Acta de inspección. # único de noticia criminal.
+                p La fecha de la inhumación.
+                p Número de clasificación y/o ubicación en el cementerio.
       .py-4.py-lg-0(titulo="Los deudos")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center
@@ -170,8 +169,7 @@
                 | Certificado de defunción. 
               li 
                 span.text-bold 2.
-                | Licencia de inhumación 
-        p.mb-4 expedida a nivel municipal por alguna de las siguientes entidades: Alcaldía, Secretaría de Salud o Inspección de Policía, la cual permite tener seguridad de que se puede realizar el proceso de inhumación e igualmente realizar la individualización del caso, realizando las planeaciones necesarias como determinar la ubicación en el cementerio, preparar el espacio a través de la apertura y limpieza del interior de la bóveda o la preparación de la tumba en tierra.
+                | Licencia de inhumación expedida a nivel municipal por alguna de las siguientes entidades: Alcaldía, Secretaría de Salud o Inspección de Policía, la cual permite tener seguridad de que se puede realizar el proceso de inhumación e igualmente realizar la individualización del caso, realizando las planeaciones necesarias como determinar la ubicación en el cementerio, preparar el espacio a través de la apertura y limpieza del interior de la bóveda o la preparación de la tumba en tierra.
         p.mb-4 Cuando se llega con el servicio de inhumación al cementerio se debe verificar quién realizará el proceso de inhumación, para que este realice el acompañamiento al área destinada para ello. Es importante destacar que el operario de cementerios debe facilitar los espacios que le permitan a las familias realizar el proceso de despedida de sus seres queridos e informar de manera respetuosa el momento en que se deberá realizar la inhumación.
         p Posterior a ello, se realiza el proceso de cierre de la inhumación y se realiza una marcación previa con información clara que individualice el proceso, después de esto se debe registrar en el cementerio y coordinar la lápida definitiva. 
       .col-lg-4

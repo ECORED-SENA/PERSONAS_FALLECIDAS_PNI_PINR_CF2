@@ -177,29 +177,29 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
         nombre: 'John Alejandro Carmona Escobar',
         cargo: 'Instructor experto temático',
-        centro: 'Centro de Servicios de Salud Regional Antioquia',
+        centro: 'Centro de Servicios de Salud  - Regional Antioquia',
       },
       {
         nombre: 'Jhacesiz Mary Hincapié Atehortúa',
         cargo:
           'Instructora (EPC) – Líder desarrollo curricular servicios personales',
-        centro: 'Centro de Servicios de Salud Regional Antioquia',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Adriana María Bustamante Cataño',
         cargo: 'Profesional de diseño y producción curricular',
-        centro: 'Centro de Servicios de Salud Regional Antioquia',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Cristian Metaute Medina',
-        cargo: 'AsesDiseñador instruccionalor',
+        cargo: 'Diseñador instruccional',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Vilma Perilla Méndez',
@@ -212,43 +212,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Oscar Julian Marquez Sanabria',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'María Isabel Román Rueda',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
