@@ -115,13 +115,26 @@
                 h4 Individualización
                 p En las bóvedas y sepulturas solo se permite el número de cadáveres para el que fue diseñada y, debe realizarse una marcación provisional. Para el caso de personas no identificadas o identificadas y no reclamadas deberán inhumarse de manera individualizada y con los datos mínimos de individualización como:
               .col-lg-3
-                img(src='@/assets/curso/tema1/img07.png')
+                img(src='@/assets/curso/tema1/07.svg')
               .col-lg-4.mb-4.mb-lg-0
-                p.mb-4 Se escribe esta abreviación para señalar una obligatoriedad en su búsqueda e identificación.
-                p Los dígitos del protocolo de necropsia. 
-                p.mb-5 Acta de inspección. # único de noticia criminal.
-                p.mb-4 La fecha de la inhumación.
-                p Número de clasificación y/o ubicación en el cementerio.
+                .BG01.p-4
+                  ol.lista-ol.mb-0
+                    li 
+                      span.text-bold.Color01 1. 
+                      | Se escribe esta abreviación para señalar una obligatoriedad en su búsqueda e identificación.
+                    li 
+                      span.text-bold.Color01 2. 
+                      | Los dígitos del protocolo de necropsia.
+                      br
+                      | Acta de inspección.
+                      br
+                      | # único de noticia criminal.
+                    li 
+                      span.text-bold.Color01 3.
+                      | La fecha de la inhumación.
+                    li.mb-0
+                      span.text-bold.Color01 4.
+                      | Número de clasificación y/o ubicación en el cementerio.
             .row.justify-content-center.p-4
               .col-lg-4.mb-4.mb-lg-0
                 br
@@ -130,13 +143,26 @@
                   strong Ejemplo:
                 p A continuación, se presenta la marcación de una bóveda de una persona identificada no reclamada. 
               .col-lg-3
-                img(src='@/assets/curso/tema1/img11.png')
+                img(src='@/assets/curso/tema1/11.svg')
               .col-lg-4.mb-4.mb-lg-0
-                p.mb-4 Nombre y apellidos de la persona identificada no reclamada.
-                p Los dígitos del protocolo de necropsia.
-                p.mb-4 Acta de inspección. # único de noticia criminal.
-                p La fecha de la inhumación.
-                p Número de clasificación y/o ubicación en el cementerio.
+                .BG01.p-4
+                  ol.lista-ol.mb-0
+                    li 
+                      span.text-bold.Color01 1. 
+                      | Nombre y apellidos de la persona identificada no reclamada.
+                    li 
+                      span.text-bold.Color01 2. 
+                      | Los dígitos del protocolo de necropsia.
+                      br
+                      | Acta de inspección.
+                      br
+                      | # único de noticia criminal.
+                    li 
+                      span.text-bold.Color01 3.
+                      | La fecha de la inhumación.
+                    li.mb-0
+                      span.text-bold.Color01 4.
+                      | Número de clasificación y/o ubicación en el cementerio.
       .py-4.py-lg-0(titulo="Los deudos")
         .tarjeta.color-secundario.p-4
           .row.justify-content-center
