@@ -50,7 +50,7 @@
             .col-lg-3
               img(src='@/assets/curso/tema1/img04.svg')
 
-        p.mb-4 Entre las condiciones para realizar el servicio de inhumación se encuentra
+        p.mb-4 Entre las condiciones para realizar el servicio de inhumación se encuentra:
         .row.justify-content-center.mb-4
           .col-lg-11
             ol.lista-ol
